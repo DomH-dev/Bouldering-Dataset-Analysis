@@ -5,7 +5,8 @@ This project explores and visualizes bouldering grades across various countries 
 
 ## Data Source
 The dataset includes bouldering grades collected from several countries, detailing the level of difficulty for different climbs.
-https://www.kaggle.com/datasets/jordizar/climb-dataset
+
+The dataset was taken from Kaggle: https://www.kaggle.com/datasets/jordizar/climb-dataset<br>
 Unfortunately the original dataset this one is based off of is no longer available at the time I found out about it.
 
 ## Key Findings
